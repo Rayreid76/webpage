@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    border: 1px dotted red;
+    
 }
 #wrapper{
     width: 960px;
@@ -102,8 +102,8 @@
     border-radius: 10px;
 }
 .menubar table{
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-left: 28px;
+    margin-right: 28px;
 }
 .menubar td{
     padding-left: 19px;
@@ -123,4 +123,122 @@
     text-align: center;
     text-decoration: underline;
     
+}
+.smafont{
+    display: inline-block;
+    vertical-align: top;
+    width: 710px;
+    margin-top: 10px;
+}
+#pear{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+.yelfont{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    padding-left: 205px;
+    width: 300px;
+    color: rgb(207,175,2);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+}
+.yelfont p{
+    padding-bottom: 8px;
+}
+#whitletr{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    font-style: normal;
+}
+.getsta{
+    display: inline-block;
+    vertical-align: top;
+    width: 360px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-top: 3px solid rgb(117, 168, 211);
+    margin-top: 8px;
+    margin-left: 40px;
+    padding-right: 40px;
+    padding-left: 10px;
+}
+.getsta p{
+    font-size: 12px;
+}
+.getsta ul{
+    width:225px;
+    margin-left: 10px;
+    list-style-type: square;
+    list-style-position: initial;
+}
+.getsta li{
+    color: rgb(117, 168, 211);
+    font-size: 12px;
+}
+.App{
+    display: inline-block;
+    vertical-align: top;
+    width: 360px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-top: 3px solid rgb(117, 168, 211);
+    margin-top: 8px;
+    margin-left: 10px;
+    padding-right: 60px;
+    padding-left: 10px;
+    padding-bottom: 10px
+}
+.App p{
+    font-size: 12px;
+}
+.App ul{
+    width:225px;
+    margin-left: 10px;
+    list-style-type: square;
+    list-style-position: initial;
+}
+.App li{
+    color: rgb(117, 168, 211);
+    font-size: 12px;
+}
+.App a{
+    color:rgb(117, 168, 211);
+    font-size: 10px;
+}
+#footer{
+    height: 100px;
+    background-color: rgb(38, 81, 117);
+    background: -moz-linear-gradient(top, #15527A 0%, #1D70A8 100%);
+    background: -webkit-linear-gradient(top, #15527A 0%, #1D70A8 100%);
+    background: linear-gradient(to bottom, #15527A 0%, #1D70A8 100%);
+    color: rgb(137, 186, 227);
+    font-family: Arial, Helvetica, sans-serif
+}
+.help{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 190px;
+    margin-right: 10px;
+}
+.mid{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;    
+}
+.last{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 10px;
+
 }
