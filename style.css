@@ -109,18 +109,18 @@
     padding-left: 19px;
     padding-right: 19px;
 }
-.list{
+.riggs{
     display: inline-block;
-    vertical-align: top;
-    width: 150px;
-    margin-left: 60px;
+    width: 200px;
+    height: 156px;
+    margin-left: 40px;
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
-.ul li{
-    display: inline-block;
+#list li{
     width: 150px;
     text-align: center;
     text-decoration: underline;
+    
 }
