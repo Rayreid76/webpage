@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    border: 1px dotted red;
+}
+#wrapper{
+    width: 960px;
+    
+}
+#header{
+    background-color: rgb(38, 81, 117);
+    color: white;
+}
+#header img{
+    width: 320px;
+    height: 90.5px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+.corner{
+    display: inline-block;
+    vertical-align: top;
+    width: 320px;
+    height: 75px;
+    margin-left: 300px;
+}
+.text{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 120px;
+    padding-top: 8px;
+}
+#header h4{
+    display: inline-block;
+    vertical-align: top;
+}
+#header a{
+    display: inline-block;
+    vertical-align: top;
+    color: rgb(207,175,2);
+}
+.box{
+    display: inline-block;
+    vertical-align: bottom;
+    background-color: rgb(68, 68, 68);
+    widows: 360px;
+    height: 50px;
+    border-radius: 10px;
+}
+.search{
+    display: inline-block;
+    vertical-align: top;
+    width: 170px;
+    height: 18px;
+    padding-top: 10px;
+    border: 2px inset #A6B2B1;
+    background-color: white;
+    color: lightgrey;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.go{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    border-radius: 10px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: normal; 
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    background-color: rgb(38, 81, 117);
+    box-shadow: rgb(0, 0, 0) 1px 1px 3px 0px; 
+    border: 1px inset rgb(166, 178, 177); 
+}
+.menubar{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: rgb(70, 125, 171);
+    box-shadow: 2px 1px 4px 0px #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    border-radius: 10px;
+}
+.menubar table{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.menubar td{
+    padding-left: 19px;
+    padding-right: 19px;
+}
+.list{
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.ul li{
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    text-decoration: underline;
+}
